@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f9fb161f-3dae-42ae-b5ad-e5f0da1dfe37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "地面怪": {
+      "ver": "1.0.3",
+      "uuid": "157a56b6-0a18-40fa-85c1-83b8e6402368",
+      "rawTextureUuid": "f9fb161f-3dae-42ae-b5ad-e5f0da1dfe37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 11,
+      "trimY": 9,
+      "width": 175,
+      "height": 241,
+      "rawWidth": 197,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

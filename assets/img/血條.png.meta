@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "84fc3741-8e80-4176-b99a-1c458ee61f21",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "血條": {
+      "ver": "1.0.3",
+      "uuid": "b4d81283-a154-4944-88b4-63b939ecc3ba",
+      "rawTextureUuid": "84fc3741-8e80-4176-b99a-1c458ee61f21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 0,
+      "width": 398,
+      "height": 40,
+      "rawWidth": 403,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
